@@ -34,3 +34,74 @@ endfunction
 
 
 
+
+
+
+" enable syntex highlighting
+syntax enable
+
+" show line numbers
+set number
+
+" set tabs fir 4 soaces
+set ts=4
+
+
+" indebt when moving to the nnext line while writing code
+set autoindent
+
+
+" expand tabs into spaces
+set expandtab
+
+" show a visual line under thecursors current line
+set cursorline
+
+
+" show the matching part of the pair for {} [] and ()
+set showmatch
+
+"  enable all python syntax highlighing  features
+let python_highlight_all = 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
